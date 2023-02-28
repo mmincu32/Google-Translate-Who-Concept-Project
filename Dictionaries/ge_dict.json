@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Katze",
+    "word_en": "cat",
+    "type": "noun",
+    "singular": ["Katze"],
+    "plural": ["Katzen"],
+    "definitions": [
+      {
+        "dict": "Syno01",
+        "dictType": "synonyms",
+        "year": 1994,
+        "text": ["Schaa", "Braa", "Kaa"]
+      },
+      {
+        "dict": "Defn02",
+        "dictType": "definitions",
+        "year": 2002,
+        "text": ["def Katze"]
+      }
+    ]
+  },
+  {
+    "word": "Hund",
+    "word_en": "dog",
+    "type": "noun",
+    "singular": ["Hund"],
+    "plural": ["Hunde"],
+    "definitions": [
+      {
+        "dict": "Syno02",
+        "dictType": "synonyms",
+        "year": 2006,
+        "text": ["Dogge", "Gebell"]
+      },
+      {
+        "dict": "Def00",
+        "dictType": "definitions",
+        "year": 1990,
+        "text": ["Ein sympatiches domestiches Tier:)"]
+      }
+    ]
+  },
+  {
+    "word": "gehen",
+    "word_en": "walk",
+    "type": "verb",
+    "singular": ["gehe", "gehst", "geht"],
+    "plural": ["gehen", "geht", "gehen"],
+    "definitions": [
+      {
+        "dict": "VerbenSym",
+        "dictType": "synonyms",
+        "year": 1997,
+        "text": ["reisen"]
+      },
+      {
+        "dict": "VerbenDef",
+        "dictType": "definitions",
+        "year": 2002,
+        "text": ["Einfach gehen yaaa"]
+      }
+    ]
+  },
+  {
+    "word": "essen",
+    "word_en": "eat",
+    "type": "verb",
+    "singular": ["esse", "isst", "isst"],
+    "plural": ["essen", "esst", "essen"],
+    "definitions": [
+      {
+        "dict": "VerbenDef",
+        "dictType": "definitions",
+        "year": 2002,
+        "text": ["yummy essen:))"]
+      },
+      {
+        "dict": "Antisch",
+        "dictType": "definitions",
+        "year": 1823,
+        "text": ["Wir mussen leben!!!!!!!"]
+      },
+      {
+        "dict": "VerbenSym",
+        "dictType": "synonyms",
+        "year": 1997,
+        "text": ["yummen"]
+      }
+    ]
+  }
+
+]
