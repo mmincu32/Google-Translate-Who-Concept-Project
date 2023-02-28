@@ -1,0 +1,62 @@
+Tests addWord:
+1: true
+2: false
+
+Tests removeWord:
+1: true
+2: false
+3: false
+
+Tests addDefinitionForWord:
+1: true
+2: false
+3: false
+
+Tests removeDefinition:
+1: true
+2: true
+3: false
+4: true
+5: false
+
+Tests translateWord:
+1: chat
+2: 620066222280444
+3: null
+4: 2222004446633
+5: câini
+
+Tests translateSentence:
+1: 2222004446633 6206620066222444 
+2: chats dragons 
+3: esse essen 
+4: null
+5: pisici mange 
+6: null
+7: chat mange 
+
+Tests translateSentences:
+1: [2222004446633 6206620066222444 , 3885552088 6337778332222 , 555208777208666777 222666667777886222 ]
+2: [chats dragons , greffier dragoon , mistigri draagon ]
+3: [Katze esse , Schaa yummen ]
+4: [pisică mange , mâță absorber , cotoroabă becqueter ]
+5: null
+
+Tests getDefinitionsForWord:
+1: [Definition{dict='Larousse', dictType='synonyms', year=2000, text=[amusement, délassement, distraction, divertissement, passe-temps, récréation]}, Definition{dict='Larousse', dictType='definitions', year=2000, text=[Activité d'ordre physique ou mental, non imposée, ne visant à aucune fin utilitaire, et à laquelle on s'adonne pour se divertir, en tirer un plaisir, Activité de loisir soumise à des règles conventionnelles, comportant gagnant(s) et perdant(s) et où interviennent, de façon variable, les qualités physiques ou intellectuelles, l'adresse, l'habileté et le hasard, Ensemble des différents jeux de hasard, en particulier ceux où l'on risque de l'argent, Ensemble des règles qui régissent un divertissement organisé]}]
+2: [Definition{dict='Def00', dictType='definitions', year=1990, text=[Ein sympatiches domestiches Tier:)]}, Definition{dict='Syno02', dictType='synonyms', year=2006, text=[Dogge, Gebell]}]
+3: [Definition{dict='NODEX', dictType='definitions', year=2002, text=[Monstru fantastic care întruchipează răul, imaginat ca un șarpe uriaș cu mai multe capete.]}, Definition{dict='DEXI', dictType='synonyms', year=2007, text=[blavor, șarpe, dragon, monstru]}, Definition{dict='DEX'09', dictType='definitions', year=2009, text=[ Monstru care întruchipează răul, imaginat ca un șarpe uriaș cu mai multe capete, adesea înaripat, Denumirea populară a constelației dragonului]}]
+4: [Definition{dict='The Art Of 01-d', dictType='definitions', year=2020, text=[2 222042 444066 28877720 77770444 44406644444480444.]}, Definition{dict='The Art Of 01-s', dictType='synonyms', year=2021, text=[6337778332222, 222666667777886222]}]
+5: null
+
+Tests exportDictionary:
+ro: 
+Success!
+fr: 
+Success!
+ge: 
+Success!
+01: 
+Success!
+tu: 
+Success!
